@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "f83d0e3f-c6b1-4166-b570-8c0294cad20c",
+      "name": "Kartik Gill",
+      "email": "gillkartik00@gmail.com"
+    },
+    {
+      "id": "5059e76c-6c6b-4dab-a58e-7bbcc0cb39e4",
+      "name": "Raghu Sareen",
+      "email": "raghusareen91@gmail.com"
+    },
+    {
+      "id": "fbd93c93-d3c3-4776-95b5-357dd0c69603",
+      "name": "jj",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "760f61be-1c14-4015-96cd-35e040896cc1",
+      "name": "jj",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "2e7de313-f1cf-487c-8093-a6e09c444e88",
+      "name": "jj",
+      "email": "test@outlook.com"
+    }
+  ]
+}
